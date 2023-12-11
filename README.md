@@ -24,5 +24,5 @@ This project about hospital system to manage employee records, patient details, 
      -Disply info
 ## Contributors 
 ### Team Members:
-    [Munira Aduraibi](https://github.com/Munirahd)
-    [Raghad Rashwan](https://github.com/RaghadRashwan)
+- [Munira Aduraibi](https://github.com/Munirahd)
+- [Raghad Rashwan](https://github.com/RaghadRashwan)
